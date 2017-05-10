@@ -22,18 +22,18 @@ const renderFullPage = (html, initialState) => {
     <html>
       <head>
         <meta charset="utf-8">
-        <title>Full Stack Web Developer based in London</title>
+        <title>VirMa</title>
         <link rel="stylesheet" type="text/css" href="/static/app.css">
       </head>
       <body>
         <div id="root">${html}</div>
         <script>
-          window.__INITIAL_STATE__ = ${JSON.stringify(initialState)}; 
+          window.__INITIAL_STATE__ = ${JSON.stringify(initialState)};
         </script>
         <script src="/static/bundle.js"></script>
       </body>
     </html>
-  `;
+  `
 }
 
 if(process.env.NODE_ENV !== 'production'){
