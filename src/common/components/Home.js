@@ -20,9 +20,9 @@ class Home extends Component {
       	<div className="posts">
 
   			<div className="post banner">
-			    <h2 className="post-title">To obtain a position that will ustilise my creative and Web Development skills that will
-            provide me with an interactive learning experience that is challenging and self enhancing.
+			    <h2 className="post-title">Nau Mai, Haere Mai
           </h2>
+          <p> A place to find unique and kiwi things</p>
     			    <a href="#" onClick={this.eventToggleSidebar}> Find out More</a>
 
 			</div>
