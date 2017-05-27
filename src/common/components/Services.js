@@ -19,9 +19,9 @@ class Services extends Component {
 
 	      	<h3>How to Navigate the Website</h3>
 
-	      	<p>I can help you or your employees develop their web development coding skills. I have been teaching code to both beginners and professionals for many years.</p>
+	      	<p>If you would like to sell your creation, please follow the link for more information</p>
 
-	      	<p>I have my own training company called <a href="http://pencil.training" target="_blank">Pencil Training</a>. More details can be found <a href="http://pencil.training" target="_blank">here</a>.</p>
+	      	<p>If you're a buyer, then more information about setting up your own account can be found <a href="http://pencil.training" target="_blank">here</a>.</p>
 
 	      </div>
 
