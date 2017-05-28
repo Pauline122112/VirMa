@@ -34,11 +34,11 @@ class Seller extends Component {
 
     return (
         <div className="posts">
-        	{PortfolioRows}
+        	{SellerRows}
         </div>
     );
 
   }
 }
 
-export default Portfolio;
+export default Seller;
