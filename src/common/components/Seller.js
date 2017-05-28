@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { getPortfolio } from '../api/portfolio';
 import classNames from 'classnames';
 
-class Portfolio extends Component {
+class Seller extends Component {
 
   render() {
 
