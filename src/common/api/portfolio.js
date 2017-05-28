@@ -1,21 +1,6 @@
 export function getPortfolio() {
   return [
     {
-    	link : 'http://www.pwul.net',
-    	title : 'Pay What You Like',
-    	classname : 'pwul',
-    	roles : [
-    		{
-    			title : 'Front End Developer',
-    			skills : 'React, Backbone, D3'
-    		},
-    		{
-    			title : 'Back End Developer',
-    			skills : 'Node, MongoDB, Gulp'
-    		}
-    	]
-    },
-    {
     	link : 'http://www.timeout.com/london/card',
     	title : 'Timeout',
     	classname : 'timeout',
