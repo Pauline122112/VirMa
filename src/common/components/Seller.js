@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { getPortfolio } from '../api/portfolio';
+import { getSeller } from '../api/seller';
 import classNames from 'classnames';
 
 class Seller extends Component {
