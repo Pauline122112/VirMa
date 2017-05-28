@@ -11,7 +11,7 @@ class Portfolio extends Component {
 		return roles.map((role) => {
 			return (
 				<div key={role.title} className="role_wrapper clearfix">
-          <h3> Creating your own store</h3>
+          <h1>Want to sell arts and crafts that YOU personally created?</h1>
 					<p className="role">Role</p>
 					<p className="role_title">{role.title}<br />
 					<span className="role_skills">{role.skills}</span></p>
