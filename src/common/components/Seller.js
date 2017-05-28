@@ -6,7 +6,7 @@ class Seller extends Component {
 
   render() {
 
-  	const portfolio = getPortfolio();
+  	const seller = getPortfolio();
 	const RoleRows = (roles) => {
 		return roles.map((role) => {
 			return (
