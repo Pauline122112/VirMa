@@ -22,7 +22,7 @@ class Seller extends Component {
 		});
 	}
 
-    const PortfolioRows = portfolio.map((row) => {
+    const SellerRows = portfolio.map((row) => {
     	const classname = classNames('portfolio_item','clearfix',row.classname);
         return (
             <div key={row.title} className={classname}>
