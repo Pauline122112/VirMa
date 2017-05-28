@@ -1,16 +1,6 @@
 export function getPortfolio() {
   return [
-    {
-    	link : 'http://www.tesco.com/direct',
-    	title : 'Tesco Entertainment',
-    	classname : 'tesco',
-    	roles : [
-    		{
-    			title : 'Front End Developer',
-    			skills : 'Backbone, CSS3, HTML5'
-    		}
-    	]
-    },
+
     {
     	link : 'http://onlinelibrary.wiley.com',
     	title : 'John Wiley and Sons',
