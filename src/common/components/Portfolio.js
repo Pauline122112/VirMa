@@ -12,6 +12,8 @@ class Portfolio extends Component {
 			return (
 				<div key={role.title} className="role_wrapper clearfix">
           <h1>Want to sell arts and crafts that YOU personally created?</h1>
+          <h3>Then you have come to the right place</h3>
+          <h4>Click on the link below to get your very own personal store up and running</h4>
 					<p className="role">Role</p>
 					<p className="role_title">{role.title}<br />
 					<span className="role_skills">{role.skills}</span></p>
