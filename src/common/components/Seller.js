@@ -22,8 +22,8 @@ class Seller extends Component {
 		});
 	}
 
-    const SellerRows = portfolio.map((row) => {
-    	const classname = classNames('portfolio_item','clearfix',row.classname);
+    const SellerRows = seller.map((row) => {
+    	const classname = classNames('seller_item','clearfix',row.classname);
         return (
             <div key={row.title} className={classname}>
 				<h2><a href={row.link} target="_blank">(visit site)</a> {row.title}</h2>
