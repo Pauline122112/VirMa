@@ -2,7 +2,7 @@
 * Layout styles
 */
 
-.portfolio_item {
+.seller_item {
 	left: right;
     margin: 0 0 20px 0;
     padding:20px 20px 0 20px;
@@ -10,7 +10,7 @@
     border:1px solid #eaeaea;
 }
 
-.portfolio_item h2 {
+.seller_item h2 {
     font-size: 24px;
     margin: 20px 0 20px 0;
     text-align: right;
@@ -19,19 +19,19 @@
     font-weight:bold;
 }
 
-.portfolio_item h2 a {
+.seller_item h2 a {
     font-size: 14px;
     text-decoration: none;
     font-weight: bold;
 }
 
-.portfolio_item .role_wrapper {
+.seller_item .role_wrapper {
     border-bottom: 1px dotted #ccc;
     position: relative;
     margin-bottom:20px;
 }
 
-.portfolio_item .role {
+.seller_item .role {
     float: left;
     color: #1db7a9;
     font-size: 30px;
@@ -41,7 +41,7 @@
     opacity:0.5;
 }
 
-.portfolio_item .role_title {
+.seller_item .role_title {
     float: right;
     font-size: 22px;
     font-weight: bold;
@@ -51,7 +51,7 @@
     text-align: right;
 }
 
-.portfolio_item span.role_skills {
+.seller_item span.role_skills {
     font-size: 18px;
     color: #a6a6a6;
 }
