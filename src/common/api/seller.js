@@ -1,4 +1,4 @@
-export function getPortfolio() {
+export function getSeller() {
   return [
 
     {
