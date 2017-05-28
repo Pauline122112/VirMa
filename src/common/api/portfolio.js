@@ -1,21 +1,5 @@
 export function getPortfolio() {
   return [
-  
-    {
-    	link : 'http://www.libon.com/',
-    	title : 'Orange (Libon)',
-    	classname : 'orange',
-    	roles : [
-    		{
-    			title : 'Front End Developer',
-    			skills : 'Backbone, WebRTC, FireFoxOS'
-    		},
-    		{
-    			title : 'Back End Developer',
-    			skills : 'Node, MongoDB, Grunt'
-    		}
-    	]
-    },
     {
     	link : 'http://www.pwul.net',
     	title : 'Pay What You Like',
