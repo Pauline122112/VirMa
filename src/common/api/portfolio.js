@@ -2,17 +2,6 @@ export function getPortfolio() {
   return [
 
     {
-    	link : 'http://onlinelibrary.wiley.com',
-    	title : 'John Wiley and Sons',
-    	classname : 'wiley',
-    	roles : [
-    		{
-    			title : 'Front End Developer',
-    			skills : 'Backbone, CSS3, HTML5'
-    		}
-    	]
-    },
-    {
     	link : 'http://www.covestor.com',
     	title : 'Covestor',
     	classname : 'covestor',
