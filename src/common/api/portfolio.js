@@ -1,17 +1,6 @@
 export function getPortfolio() {
   return [
     {
-    	link : 'http://www.timeout.com/london/card',
-    	title : 'Timeout',
-    	classname : 'timeout',
-    	roles : [
-    		{
-    			title : 'Front End Developer',
-    			skills : 'Backbone, CSS3, HTML5'
-    		}
-    	]
-    },
-    {
     	link : 'http://www.tesco.com/direct',
     	title : 'Tesco Entertainment',
     	classname : 'tesco',
