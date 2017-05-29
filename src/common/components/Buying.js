@@ -2,7 +2,7 @@ import React, { Component, PropTypes } from 'react';
 import Banner from './layout/Banner';
 
 
-class Services extends Component {
+class Buying extends Component {
 
   render () {
     return (
