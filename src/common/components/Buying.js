@@ -30,4 +30,4 @@ class Buying extends Component {
   }
 }
 
-export default Services;
+export default Buying;
