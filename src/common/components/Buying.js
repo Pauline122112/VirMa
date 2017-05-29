@@ -19,7 +19,7 @@ class Buying extends Component {
 
 	      	<h3>How to Navigate the Website</h3>
 
-	      	<p>If you would like to sell your creation, please follow the link for more information</p>
+	      	<p>If you would like to start buying unique Kiwi arts and crafts, please follow the link below</p>
 
 	      	<p>If you're a buyer, then more information about setting up your own account can be found <a href="http://pencil.training" target="_blank">here</a>.</p>
 
