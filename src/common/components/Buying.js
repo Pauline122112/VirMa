@@ -10,7 +10,7 @@ class Buying extends Component {
 
 	      	<Banner />
 
-      	  <div className="services">
+      	  <div className="buying">
 
       	  	<h3>What this website offers</h3>
 
