@@ -1,15 +1,15 @@
-.services {
+.buying {
 	width:46%;
 	float:left;
 	font-size:16px;
 }
 
-.services:last-child{
+.buying:last-child{
 	float:right;
 }
 
 @media (max-width: 40em) {
-	.services {
+	.buying {
 		width:100%;
 	}
 }
