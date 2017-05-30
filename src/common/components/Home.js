@@ -36,13 +36,6 @@ class Home extends Component {
   			</div>
 
 
-  			<div className="post clearfix">
-
-				<h2>Web Development Experience:</h2>
-
-
-			</div>
-
 			<Banner />
 
   		</div>
