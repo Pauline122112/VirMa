@@ -1,13 +1,13 @@
 import { bindActionCreators } from 'redux';
 import React, { Component} from 'react';
 import { connect } from 'react-redux';
-import Contact from '../components/Contact';
-import * as ContactActions from '../actions/contact';
+import About from '../components/About';
+import * as AboutActions from '../actions/about';
 
 //Data that needs to be called before rendering the component
 //This is used for server side rending via the fetchComponentDataBeforeRending() method
-Contact.need = [
-  ContactActions.fetchRepos
+About.need = [
+  AboutActions.fetchRepos
 ]
 
 function mapStateToProps(state) {
@@ -30,7 +30,7 @@ function mapStateToProps(state) {
 }
 
 function mapDispatchToProps(dispatch) {
-  return bindActionCreators(ContactActions, dispatch);
+  return bindActionCreators(AboutActions, dispatch);
 }
 
-export default connect(mapStateToProps,mapDispatchToProps)(Contact);
+export default connect(mapStateToProps,mapDispatchToProps)(About);
