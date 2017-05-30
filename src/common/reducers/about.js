@@ -1,6 +1,6 @@
 import {
   INVALIDATE_REPOS, REPOS_GET_REQUEST, REPOS_GET_SUCCESS, REPOS_GET_FAILURE
-} from '../actions/about';
+} from '../actions/contact';
 
 export function reposByUser(state = {
   error: {},
