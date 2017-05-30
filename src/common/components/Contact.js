@@ -63,4 +63,4 @@ About.propTypes = {
   isFetching: PropTypes.bool.isRequired
 };
 
-export default About;
+export default Contact;
