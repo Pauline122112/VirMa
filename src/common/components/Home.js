@@ -29,7 +29,7 @@ class Home extends Component {
 
 		  	<div className="post clearfix">
 
-				<h2>Web Development Technical Skills:</h2>
+				<h2>New Pieces for the month</h2>
 
 
 
