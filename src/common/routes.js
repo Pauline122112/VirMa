@@ -4,7 +4,7 @@ import React from "react";
 import App from "./containers/App";
 
 //Redux Smart
-import AboutPage from "./containers/AboutPage";
+import ContactPage from "./containers/ContactPage";
 import HomePage from "./containers/HomePage";
 
 //Redux Dumb
@@ -17,7 +17,7 @@ export default (
       <Route path="home" component={HomePage} />
       <Route path="seller" component={SellerPage} />
       <Route path="buying" component={BuyingPage} />
-      <Route path="about" component={AboutPage} />
+      <Route path="contact" component={ContactPage} />
       <Route path="*" component={error404}/>
   </Route>
 );
