@@ -1,6 +1,6 @@
 import React, { Component, PropTypes } from 'react';
 import { connect } from 'react-redux';
-import Repos from './about/Repos';
+import Repos from './contact/Repos';
 
 import Loader from './layout/Loader';
 import Banner from './layout/Banner';
@@ -57,7 +57,7 @@ class Contact extends Component {
   }
 }
 
-About.propTypes = {
+Contact.propTypes = {
   results: PropTypes.array.isRequired,
   error: PropTypes.object.isRequired,
   isFetching: PropTypes.bool.isRequired
