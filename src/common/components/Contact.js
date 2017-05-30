@@ -5,7 +5,7 @@ import Repos from './about/Repos';
 import Loader from './layout/Loader';
 import Banner from './layout/Banner';
 
-class About extends Component {
+class Contact extends Component {
   constructor(props) {
     super(props);
   }
@@ -21,7 +21,7 @@ class About extends Component {
 
       		<Banner />
 
-      	  <div className="about">
+      	  <div className="contact">
 
       	  	<h3>About VirMa</h3>
 
