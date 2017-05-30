@@ -26,7 +26,7 @@ class Sidebar extends Component {
 		    <Link to="/home" className="sidebar-nav-item" onClick={this.eventCloseSidebar} activeClassName="active">Home</Link>
 		    <Link to="/seller" className="sidebar-nav-item" onClick={this.eventCloseSidebar} activeClassName="active">Selling</Link>
 		    <Link to="/buying" className="sidebar-nav-item" onClick={this.eventCloseSidebar} activeClassName="active">Buying</Link>
-		    <Link to="/about" className="sidebar-nav-item" onClick={this.eventCloseSidebar} activeClassName="active">About</Link>
+		    <Link to="/contact" className="sidebar-nav-item" onClick={this.eventCloseSidebar} activeClassName="active">Contact</Link>
 		  </nav>
 
 		  <div className="sidebar-item sidebar-footer">
